@@ -1,2 +1,2 @@
 # utsharepoint.com
-Public repository for utsharepoint.com static site
+Public repository for [utsharepoint.com](http://utsharepoint.com) static site
