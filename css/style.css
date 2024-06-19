@@ -332,6 +332,9 @@ img.img-circle.team-img {
     color: #FFF;
     text-align: center;
 }
+#clients .item img{
+	height: 80px;
+}
 /* Gallery Section 
 ==============================*/
 #tf-works{
