@@ -62,6 +62,7 @@ function main() {
 				      ],
   	  });
 
+      /*
   	  $("#clients").owlCarousel({
   	 
   	      navigation : false, // Show next and prev buttons
@@ -79,6 +80,7 @@ function main() {
 				        [1600, 5]
 				      ],
   	  });
+      */
 
       $("#testimonial").owlCarousel({
         navigation : false, // Show next and prev buttons
