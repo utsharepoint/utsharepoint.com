@@ -326,13 +326,10 @@ img.img-circle.team-img {
 	background-attachment: fixed;
 }
 
-#clients .item{
-    padding: 0;
-    margin: 35px;
-    color: #FFF;
-    text-align: center;
+#clients span {
+    padding: 5vw;
 }
-#clients .item img{
+#clients img.sponsor {
 	height: 80px;
 }
 /* Gallery Section 
